@@ -44,3 +44,8 @@ p, h2 {
     padding-left: 10px;
 
 }
+
+.bordaImg {
+    border: solid 10px rgb(153, 153, 143);
+    
+}
